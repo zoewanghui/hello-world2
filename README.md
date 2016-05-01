@@ -1,2 +1,5 @@
 # hello-world2
-hi testing
+hi testing,
+
+A training pre-work which I have to completed.
+
